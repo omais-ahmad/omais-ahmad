@@ -1,28 +1,53 @@
-<h1 align="center">Hi 👋, I'm Omais Ahmed</h1>
-<h3 align="center">A passionate frontend developer from Pakistan (Islamabad)</h3>
-<img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+<h1 align="center">Hi, I'm Omais Ahmed</h1>
+<h3 align="center">Full-Stack Software Engineer · Angular · React · Node.js</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omais-ahmad&label=Profile%20views&color=0e75b6&style=flat" alt="omais-ahmad" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omais-ahmad" alt="omais-ahmad" /></a> </p>
-
-- 🌱 I’m currently learning **Node.JS**
-
-- 💬 Ask me about **Angular, Node, Laravel, .NET**
-
-- 📫 How to reach me **moonmalikunited18@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/omais ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omais ahmed" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://omais-ahmed.netlify.app"><b>Portfolio</b></a> ·
+  <a href="https://www.linkedin.com/in/omais-ahmed-184660248/"><b>LinkedIn</b></a> ·
+  <a href="mailto:webdeveloperomais@gmail.com"><b>Email</b></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+I am a full-stack software engineer based in Islamabad, Pakistan, with 3+ years of professional
+experience building web and cross-platform mobile applications across FinTech, healthcare, tourism,
+e-commerce and SaaS. Most of my work sits where product requirements meet system structure: how an
+application is divided into modules, what is shared between teams, and how the parts communicate.
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/omaisAhmed"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="omaisAhmed" /></a></p><br><br>
+## What I am working on
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omais-ahmad&show_icons=true&locale=en" alt="omais-ahmad" /></p>
+- **MEAN Stack Developer at CyberSoft Vantage**, working directly with Sukna Capital, a Saudi FinTech
+  company, and leading frontend development of its lending and investment platform: four Angular
+  portals built on one private component library.
+- Before that: MERN Stack Developer at Syslab Technologies Sdn Bhd, and Full Stack Developer at
+  SoftoSol.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omais-ahmad&" alt="omais-ahmad" /></p>
+## What I work with
+
+| Area | Tools |
+| --- | --- |
+| Frontend | Angular, React, TypeScript, JavaScript, Ionic, HTML, CSS / SCSS, Tailwind CSS, Bootstrap |
+| Backend | Node.js, Express.js, REST APIs, JWT authentication, role-based access control |
+| Data and messaging | MongoDB, PostgreSQL, MySQL, Redis, RabbitMQ |
+| Real time | SignalR, Socket.IO |
+| Architecture | Feature-based modular frontends, reusable component libraries, design systems, event-driven services |
+| Delivery | Git and GitHub, Azure Artifacts, NPM package publishing, Vercel, Netlify |
+
+Currently learning: ASP.NET Web API and NestJS.
+
+## Selected work
+
+Case studies, with architecture diagrams, are on my [portfolio](https://omais-ahmed.netlify.app/#projects).
+Most of that work is private, so these are the repositories you can read:
+
+| Repository | What it is |
+| --- | --- |
+| [Omais-Ahmed](https://github.com/omais-ahmad/Omais-Ahmed) | This portfolio: React, TypeScript and Vite, prerendered, with an admin dashboard on Supabase |
+| [cr-assessment-frontend-20260721](https://github.com/omais-ahmad/cr-assessment-frontend-20260721) | Angular approver interface for purchase agreement change requests, with permission-aware actions and Jest component tests |
+| [my-angular-app-vercel](https://github.com/omais-ahmad/my-angular-app-vercel) | Recursive Angular reactive form for KYC registration of legal entities |
+| [tick-tock-app](https://github.com/omais-ahmad/tick-tock-app) | Timesheet tracking interface in React 19 and Tailwind CSS ([live](https://tick-tock-app.vercel.app)) |
+| [Event-Management](https://github.com/omais-ahmad/Event-Management) | React client for an events REST API with JWT sign-in and time zone handling |
+| [task_manager](https://github.com/omais-ahmad/task_manager) | Task manager on a small hand-written MVC structure in plain PHP and MySQL |
+
+## Get in touch
+
+The quickest way to reach me is the contact form on my [portfolio](https://omais-ahmed.netlify.app/#contact),
+or a message on [LinkedIn](https://www.linkedin.com/in/omais-ahmed-184660248/).
