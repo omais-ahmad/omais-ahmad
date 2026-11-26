@@ -19,11 +19,11 @@ experience building web and cross-platform mobile applications across FinTech, h
 e-commerce and SaaS. Most of my work sits where product requirements meet system structure: how an
 application is divided into modules, what is shared between teams, and how the parts communicate.
 
-- **Now:** MEAN Stack Developer at CyberSoft Vantage, working directly with Sukna Capital, a Saudi
-  FinTech company, and leading frontend development of its lending and investment platform: four
-  Angular portals built on one private component library.
+- **Now:** Full Stack Developer at CyberSoft Vantage, working directly with Sukna Capital, a Saudi
+  FinTech company, on its lending and investment platform: Angular on the frontend, .NET on the
+  backend. I lead the frontend, four Angular portals built on one private component library.
 - **Before:** MERN Stack Developer at Syslab Technologies Sdn Bhd, and Full Stack Developer at SoftoSol.
-- **Learning:** ASP.NET Web API and NestJS.
+- **Learning:** NestJS.
 
 <br />
 
@@ -32,13 +32,13 @@ application is divided into modules, what is shared between teams, and how the p
 <p align="center">
   <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,sass,tailwind,bootstrap&perline=9" alt="Frontend: Angular, React, TypeScript, JavaScript, HTML, CSS, Sass, Tailwind CSS, Bootstrap" />
   <br /><br />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,redis,rabbitmq,git,azure&perline=9" alt="Backend and delivery: Node.js, Express, MongoDB, PostgreSQL, MySQL, Redis, RabbitMQ, Git, Azure" />
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,mongodb,postgres,mysql,redis,rabbitmq,git&perline=9" alt="Backend and delivery: .NET, Node.js, Express, MongoDB, PostgreSQL, MySQL, Redis, RabbitMQ, Git" />
 </p>
 
 | Layer | What I use |
 | --- | --- |
 | Interfaces | Angular, React, Ionic, TypeScript, Tailwind CSS, reusable component libraries and design systems |
-| Services | Node.js, Express.js, REST APIs, JWT authentication, role-based access control, SignalR, Socket.IO |
+| Services | .NET, Node.js, Express.js, REST APIs, JWT authentication, role-based access control, SignalR, Socket.IO |
 | Infrastructure | MongoDB, PostgreSQL, MySQL, Redis, RabbitMQ, Azure Artifacts, Vercel, Netlify |
 
 <br />

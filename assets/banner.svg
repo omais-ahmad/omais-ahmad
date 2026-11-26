@@ -114,7 +114,7 @@
       <line x1="776" y1="222" x2="740" y2="222" stroke="#2fe6b7" stroke-opacity=".5"/>
       <circle cx="776" cy="222" r="2.6" fill="#2fe6b7"/>
       <text x="730" y="219" text-anchor="end" class="mono" font-size="12.5" letter-spacing="2.4" fill="#2fe6b7">SERVICES</text>
-      <text x="730" y="237" text-anchor="end" class="mono" font-size="11.5" fill="#8b9894">Node.js · REST · real time</text>
+      <text x="730" y="237" text-anchor="end" class="mono" font-size="11.5" fill="#8b9894">.NET · Node.js · REST</text>
     </g>
     <g class="float f2">
       
@@ -141,14 +141,14 @@
     </g>
 
     <!-- Copy -->
-    <text x="64" y="92" class="mono" font-size="15" fill="#8b9894"><tspan fill="#2fe6b7">~/</tspan>omais-ahmed · MEAN Stack Developer @ CyberSoft Vantage</text>
+    <text x="64" y="92" class="mono" font-size="15" fill="#8b9894"><tspan fill="#2fe6b7">~/</tspan>omais-ahmed · Full Stack Developer @ CyberSoft Vantage</text>
     <text x="62" y="170" class="sans" font-size="68" font-weight="700" letter-spacing="-2.6" fill="#ffffff">Omais Ahmed</text>
     <text x="64" y="228" class="sans" font-size="35" font-weight="650" letter-spacing="-1" fill="url(#headline)">Building scalable software.</text>
     <text x="64" y="288" class="mono" font-size="21" fill="#7d8a86">&gt;</text>
     <g clip-path="url(#typing)">
       <text x="92" y="288" class="mono role" font-size="21" fill="#46b9ff" style="animation-delay:0.0s">Full-Stack Software Engineer</text>
       <text x="92" y="288" class="mono role" font-size="21" fill="#46b9ff" style="animation-delay:3.2s">Angular Developer</text>
-      <text x="92" y="288" class="mono role" font-size="21" fill="#46b9ff" style="animation-delay:6.4s">MEAN Stack Developer</text>
+      <text x="92" y="288" class="mono role" font-size="21" fill="#46b9ff" style="animation-delay:6.4s">.NET Developer</text>
       <text x="92" y="288" class="mono role" font-size="21" fill="#46b9ff" style="animation-delay:9.6s">MERN Stack Developer</text>
     </g>
     
